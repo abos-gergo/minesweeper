@@ -1,8 +1,8 @@
 MINESWEEPER CONTROLS:
-Left Click: Reveal tile 
-Right Click: Flag/Unflag tile 
-Escape: Reveal every tile 
-Right Arrow: Auto-Completion - Makes a step towards completing the map  
+Left Click: Reveal tile | 
+Right Click: Flag/Unflag tile | 
+Escape: Reveal every tile | 
+Right Arrow: Auto-Completion - Makes a step towards completing the map | 
   
 Note: 
 Python code only runs if python 3.9 is installed, with pygame package installed as well, doesn't run by simply running the .py file,
